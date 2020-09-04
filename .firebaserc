@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "cvj-delivery": {
+      "hosting": {
+        "app": [
+          "cvj-delivery"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "production": "cvj-delivery"
+  }
+}
